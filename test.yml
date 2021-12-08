@@ -1,0 +1,7 @@
+project:
+  dependencies:
+    - namespace: qbranch
+      version: 1.173
+    - version_id: 04tj0000000LYXiAAO
+    - namespace: DemoADM
+      version: 2.2
